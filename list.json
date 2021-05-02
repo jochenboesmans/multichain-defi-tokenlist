@@ -1,3 +1,169 @@
 {
+  "name": "Multichain DeFi Tokenlist",
+  "keywords": [
+    "mainnet",
+    "testnet",
+    "ropsten",
+    "rinkeby",
+    "goerli",
+    "kovan",
+    "defi"
+  ],
+  "timestamp": "2021-05-02T01:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 3,
+      "address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 3,
+      "address": "0x516de3a7A567d81737e3a46ec4FF9cFD1fcb0136",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 3,
+      "address": "0xBde8bB00A7eF67007A96945B3a3621177B615C44",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    {
+      "chainId": 3,
+      "address": "0x0D9C8723B343A8368BebE0B5E89273fF8D712e3C",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x577D296678535e4903D59A4C929B718e1D575e0A",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    {
+      "chainId": 4,
+      "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 5,
+      "address": "0xdc31Ee1784292379Fbb2964b3B9C4124D8F89C60",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 5,
+      "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    {
+      "chainId": 5,
+      "address": "0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 42,
+      "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 42,
+      "address": "0x07de306FF27a2B630B1141956844eB1552B956B5",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 42,
+      "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    },
+    {
+      "chainId": 42,
+      "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
 
 }
