@@ -1,5 +1,6 @@
 {
   "name": "Multichain DeFi Tokenlist",
+  "logoURI": "https://pbs.twimg.com/profile_images/1376740308835311617/3pmXZoPe_400x400.jpg",
   "keywords": [
     "mainnet",
     "testnet",
@@ -164,6 +165,4 @@
     "minor": 1,
     "patch": 0
   }
-}
-
 }
